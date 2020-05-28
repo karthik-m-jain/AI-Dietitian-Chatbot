@@ -1,0 +1,27 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Hi
+bot : - - Hello
+user : What is your age
+bot : - I was created in May 2020.
+user : How is your father
+bot : - Humans created me.
+user : What should i eat?
+bot : - You need to avoid highly fatty and greasy foods. You should also avoid too much sugar and caffeine.
+user : I am 14 yrs 
+bot : - Okay, this is a adolescence age, Your gender(Boy/Girl)?
+user : I am a boy
+bot : - Your teenager will go through several growth spurts during this time. What's your weight?
+user : 55
+bot : - you seem to be overweight. What's your height.
+user : 120
+bot : - Good, Your BMI is 38.2 kg/m2 (108%, Overweight).
+user : Suggest me a diet plan
+bot : - On my work
+user : What should i eat
+bot : - You need to avoid highly fatty and greasy foods. You should also avoid too much sugar and caffeine.
+user : What should be my sample diet
+bot : - Waking up: A glass of warm low fat milk;
+user : What should should be my sample diet
+bot : - Waking up: A glass of warm low fat milk;
+user : Thanks
+bot : - always welcome
