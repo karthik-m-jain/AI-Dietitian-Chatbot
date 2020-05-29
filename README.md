@@ -1,4 +1,4 @@
-# Artificial Intelligence Dietician Chatbot
+# Artificial Intelligence Dietitian Chatbot
 
 ## Built on 
 python 3.6
